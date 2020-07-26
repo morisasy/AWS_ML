@@ -55,3 +55,8 @@
 * Are log messages clear, concise, and professional?
 * Do they include all relevant and useful information?
 * Do they use the appropriate logging level?
+
+```
+  Scikit-learn, pandas, and NumPy were built with python. There are thousand python packages but those are mostly used package in Machine Learning and Data Science.
+ These are all Python packages built with object-oriented programming.
+```
