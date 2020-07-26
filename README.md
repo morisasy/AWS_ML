@@ -1,15 +1,15 @@
 # AWS_ML
 
 
-### AWS Machine learning Foundatios Course
+##### AWS Machine learning Foundatios Course
 
-### Software Engineering Practices
+##### Software Engineering Practices
 
-### Introduction o Object-Oriented Programming
+##### Introduction o Object-Oriented Programming
 
-### Machine Learning with AWS DeepComposer
+##### Machine Learning with AWS DeepComposer
 
-### Dive Deeper into Machine Learning(optional)
+##### Dive Deeper into Machine Learning(optional)
 
 
 ### CODE Reviews
@@ -24,7 +24,7 @@
 
 
 
-##### Questions to Ask Yourself When Conducting a Code Review
+#### Questions to Ask Yourself When Conducting a Code Review
 
 
 * Is the code clean and modular?
@@ -35,7 +35,7 @@
 * Is each function and module necessary?
 * Is each function or module too long?
 
-** Is the code efficient? **
+###### Is the code efficient?
 
 * Are there loops or other steps we can vectorize?
 * Can we use better data structures to optimize any steps?
