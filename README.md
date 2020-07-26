@@ -16,10 +16,10 @@
 
 ##### Benefits
 
--- Catch errors
--- Ensure readability
--- Check standards are met
--- Share knowledge among teams
+- Catch errors
+- Ensure readability
+- Check standards are met
+- Share knowledge among teams
 
 '''
 

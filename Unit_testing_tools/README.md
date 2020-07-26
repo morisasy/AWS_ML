@@ -33,7 +33,7 @@ When refactoring or adding to your code, tests help you rest assured that the re
 Test driven development for data science is relatively new and has a lot of experimentation and breakthroughs appearing, which you can learn more about in the resources below.
 
 ```
--- Data Science TDD
--- TDD for Data Science
--- TDD is Essential for Good Data Science Here's Why
--- Testing Your Code (general python TDD)
+- Data Science TDD
+- TDD for Data Science
+- TDD is Essential for Good Data Science Here's Why
+- Testing Your Code (general python TDD)
