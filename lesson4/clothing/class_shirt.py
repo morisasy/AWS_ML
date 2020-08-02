@@ -1,6 +1,6 @@
 
 class Shirt:
-    """Shirt Objece
+    """Shirt Object
     arg:
     shirt_color: string
     shirt_size: string ( 's m l xxl')
